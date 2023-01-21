@@ -27,7 +27,7 @@ SECRET_KEY = 'rf=iv#+b4@pocgvrf&alo$cosg=i*-2e*)vndrw4o3mba++e)+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'digital-voting-system.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
 
 # Application definition

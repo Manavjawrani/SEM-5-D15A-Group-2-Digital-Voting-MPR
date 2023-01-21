@@ -1,1 +1,0 @@
-web: gunicorn Digital_Voting.wsgi --log-file -
