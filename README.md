@@ -1,0 +1,4 @@
+# Digital-Voting-System
+
+
+The purpose of this project is to create an online voting system that enables people to vote from their homes, without the need to visit a physical polling station. The system is built using various programming languages such as Python+Django, HTML, and CSS, and it also includes a feature that allows users to receive authentication via OTP through text messages (SMS) and emails. With this system, individuals can cast their votes securely and easily using a user-friendly website, eliminating the need to wait in long lines or visit a specific location to vote. Additionally, the system guarantees that all votes are counted fairly and accurately, ensuring that no one is left out. This project demonstrates how technology can accelerate critical processes such as voting, making it more efficient and convenient for everyone.
